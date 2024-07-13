@@ -278,11 +278,11 @@ footer img {
 
 footer a {
     text-decoration: none;
-    color: var(--primary-color);
+    color: var(--tertiary-color);
 }
 
 footer a:hover {
-    color: var(--background-color);
+    color: var(--secondary-color);
 }
 
 .footer-title span {
