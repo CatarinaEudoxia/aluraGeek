@@ -1,0 +1,73 @@
+# <h1 align="center"> [AluraGeek]() </h1>
+
+
+<p align="center">
+  <img src="src/assets/final-result.png" alt="Imagem com o logo do codeMystic" width="500">
+</p>
+
+## Índice
+
+* [1. Introdução](#1-introdução)
+* [2. Requisitos](#2-requisitos)
+* [3. Ferramentas e mecanismos usados](#3-ferramentas-e-mecanismos-usados)
+* [4. AluraGeek aqui](#4-alurageek-aqui)
+* [5. Projeto desenvolvido por](#5-projeto-desenvolvido-por)
+
+
+
+## 1. Introdução
+
+Este projeto foi desenvolvido como parte do curso da Alura, como o segundo desafio da formação Front-end. O objetivo do AluraGeek é construir uma site que faça requisições a uma API e implemente um sistema CRUD focado principalmente nas operações de criação, leitura e exclusão para gerenciar o catálogo de produtos de um e-commerce fictício.
+
+Embora o projeto tenha um modelo de design inicial fornecido, os participantes têm liberdade para realizar alterações, visando aprimorar suas habilidades e aplicar os conhecimentos adquiridos durante o curso.
+
+#challengeAluraGeek
+
+## 2. Requisitos
+[✔] Simular uma API com json-server
+
+[✔] Implementar requisição GET para obter dados
+
+[✔] Renderizar os produtos dinamicamente na interface
+
+[✔] Implementar requisições POST para criar e excluir produtos
+
+[✔] Ser responsivo
+
+## 3. Ferramentas e mecanismos usados
+— HTML
+
+— CSS
+
+— JavaScript
+
+— VSCODE
+
+— Figma
+
+— Git
+
+# 4. AluraGeek aqui:
+
+### Aproveite e de uma olhadinha no projeto [AluraGeek!]()
+
+<p align="center">
+  <img src="./src/assets/aluraGeek-logo.png" alt="Imagem com o logo do AluraGeek">
+</p>
+
+<br>
+
+# 5. Projeto desenvolvido por:
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img src="https://avatars.githubusercontent.com/u/129068843?s=400&u=07f6693114af32c3fc33f1913fde52c78b9dfd85&v=4" width="100px;" alt="Foto da Catarina no GitHub"/><br>
+          <sub>
+            <b>Catarina Eudoxia Ferreira</b>
+          </sub>
+        </a>
+      </td>
+    </tr>
+  </table>

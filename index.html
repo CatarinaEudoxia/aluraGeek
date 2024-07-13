@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AluraGeek</title>
+    <link rel="icon" href="./src/assets/c-icon.jpg" type="image/jpeg">
+    <link rel="stylesheet" href="./src/styles/reset.css">
+    <link rel="stylesheet" href="./src/styles/style.css">
+    <link rel="stylesheet" href="./src/styles/mediaqueries.css">
+</head>
+
+<body>
+    <header class="page-header">
+        <img src="./src/assets/hearts.svg" alt="Três corações alinhados na horizontal">
+        <h1 class="page-title">Alura<span>Geek</span></h1>
+    </header>
+
+    <main class="main-content">
+
+        <section class="products-section">
+
+            <h1>MEUS PRODUTOS:</h1>
+
+           <div class="products-list" id="itens" data-list> </div>
+
+        </section>
+
+        <section class="form-section">
+
+            <h1 class="titulo">ADICIONAR <br> PRODUTO</h1>
+
+            <form id="add-new-product" class="form-new-product" data-form>
+
+                <fieldset class="form-field">
+                    <input type="text" id="product-name" placeholder="Nome..." required minlength="4"
+                    data-name>
+                </fieldset>
+
+                <fieldset class="form-field">
+                    <input type="text" id="product-price" placeholder="Valor..." required minlength="4"
+                    data-price>
+                </fieldset>
+
+                <fieldset class="form-field">
+                    <input type="url" id="product-image" placeholder="Imagem url..." required  data-image>
+                </fieldset>
+
+                <span class="message-button"></span>
+
+                <fieldset class="form-buttons">
+                    <button type="submit" class="add-button">Adicionar</button>
+                    <button type="reset" class="reset-button" data-reset>Limpar</button>
+                </fieldset>
+
+            </form>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <div class="footer-container">
+        <img src="./src/assets/hearts.svg" alt="Três corações alinhados na horizontal">
+        <h2 class="footer-title">Alura<span>Geek</span></h2>
+        </div>
+        <p>Desenvolvido por&nbsp;
+            <a href="https://github.com/CatarinaEudoxia" target="_blank"> Catarina E. Ferreira</a>
+            ©️2024
+        </p>
+        <p>ALURA LATAM | ORACLE NEXT ONE — 2024</p>
+    </footer>
+
+    <script type="module" src="./src/js/productAPI.js"></script>
+    <script type="module" src="./src/js/showProducts.js"></script>
+    <script type="module" src="./src/js/createProduct.js"></script>
+</body>
+</html>

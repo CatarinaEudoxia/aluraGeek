@@ -1,0 +1,52 @@
+{
+  "produtos": [
+    {
+      "id": "0001",
+      "name": "Funko pop Sora - Kingdom Hearts",
+      "price": "R$380,00",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR9rcEtWYxHc8BR0g5UEGUbeAopLrVvE0uDm1jL5pqmnUDEPWM5LpbAi-WaoYuRvWiJkj0L9EfwkJAE6tE_I5V6m_lE_Ypv62aZp8hph2tJy8ddhYMZXcMApg&usqp=CAE"
+    },
+    {
+      "id": "0002",
+      "name": "Funko pop Lea - Kingdom Hearts",
+      "price": "R$210,00",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRNTMHFBzbLkpPSVFohCLSdWzjPpOaG2L2YChZzzGqKWluRmepKRxFGijqVOn9m6zH70l2cNOcNYVA6n8hHLfTZsW8CAmxinFraSVSm8Go6"
+    },
+    {
+      "id": "0003",
+      "name": "Funko pop Monster Sora - Kingdom Hearts",
+      "price": "R$270,00",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_814256-MLB43548063414_092020-O.webp"
+    },
+    {
+      "id": "0004",
+      "name": "Action Figure Killua Zoldyck",
+      "price": "R$210,00",
+      "image": "https://cdn.awsli.com.br/800x800/770/770210/produto/228678895/2-kl1glwspf7.png"
+    },
+    {
+      "id": "0005",
+      "name": "Pelúcia Pikachu cosplay Charizard",
+      "price": "R$60,00",
+      "image": "https://m.media-amazon.com/images/I/41lOeCpZPML._AC_.jpg"
+    },
+    {
+      "id": "0006",
+      "name": "Caneca Caldeirão Harry Potter",
+      "price": "R$70,00",
+      "image": "https://cdn.awsli.com.br/600x450/226/226058/produto/146229216/6383faca71.jpg"
+    },
+    {
+      "id": "0007",
+      "name": "Caneca Harry Potter relíquias da morte",
+      "price": "R$40,00",
+      "image": "https://down-br.img.susercontent.com/file/d43762bff856b968a5237496fa90d411"
+    },
+    {
+      "name": "Conjunto de xícaras casas Harry Potter",
+      "price": "R$150,00",
+      "image": "https://imaginarium.vtexassets.com/arquivos/ids/9916081/Conjunto-de-Xicaras-Harry-Potter-Casas-Hogwarts.jpg?v=638343558394930000",
+      "id": "Mwra0TP"
+    }
+  ]
+}
