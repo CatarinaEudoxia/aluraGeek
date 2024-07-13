@@ -57,7 +57,7 @@ Nosso projeto tinha como desafio implementar um CRUD, para o qual criamos um arq
 
   2. Execute o comando: ```git clone https://github.com/CatarinaEudoxia/aluraGeek.git```
 
-  3. Navegue até o diretório do projeto ```clonado: cd aluraGeek```
+  3. Navegue até o diretório do projeto clonado: ```cd aluraGeek```
 
   4. Instale as dependências do projeto (Tenha o Node.js instalado no seu sistema.): ```npm install``` 
 
