@@ -2,7 +2,7 @@ async function getProducts() {
     const configFetch = {
         method: "GET",
     }
-    const productsData = await fetch("http://localhost:3000/produtos", configFetch);
+    const productsData = await fetch("https://alura-geek-ochre-ten.vercel.app/db.json", configFetch);
     const allProducts = await productsData.json();
     return allProducts;
 }

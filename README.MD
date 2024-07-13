@@ -1,4 +1,4 @@
-# <h1 align="center"> [AluraGeek]() </h1>
+# <h1 align="center"> [AluraGeek](https://alura-geek-ochre-ten.vercel.app/) </h1>
 
 
 <p align="center">
@@ -49,7 +49,7 @@ Embora o projeto tenha um modelo de design inicial fornecido, os participantes t
 
 # 4. AluraGeek aqui:
 
-### Aproveite e de uma olhadinha no projeto [AluraGeek!]()
+### Aproveite e de uma olhadinha no projeto [AluraGeek!](https://alura-geek-ochre-ten.vercel.app/)
 
 <p align="center">
   <img src="./src/assets/aluraGeek-logo.png" alt="Imagem com o logo do AluraGeek">

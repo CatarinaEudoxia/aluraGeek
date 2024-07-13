@@ -1,4 +1,4 @@
-@media(max-width:768px){
+@media(max-width:768px) {
     .main-content {
         flex-direction: column-reverse;
         height: auto;
@@ -15,8 +15,10 @@
     }
 }
 
-@media(max-width:425px){
-    .page-header .page-title, .page-header .page-title span {
+@media(max-width:425px) {
+
+    .page-header .page-title,
+    .page-header .page-title span {
         font-family: "Press Start 2P";
         font-size: 24px;
     }
@@ -31,17 +33,17 @@
 
 }
 
-@media(max-width:363px){
-    .page-header .page-title, .page-header .page-title span {
+@media(max-width:363px) {
+
+    .page-header .page-title,
+    .page-header .page-title span {
         font-family: "Press Start 2P";
         font-size: 20px;
     }
 
-    .page-header img, footer img  {
+    .page-header img,
+    footer img {
         width: 108px;
         height: 36px;
     }
-
-
-
 }
