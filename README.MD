@@ -10,8 +10,9 @@
 * [1. Introdução](#1-introdução)
 * [2. Requisitos](#2-requisitos)
 * [3. Ferramentas e mecanismos usados](#3-ferramentas-e-mecanismos-usados)
-* [4. AluraGeek aqui](#4-alurageek-aqui)
-* [5. Projeto desenvolvido por](#5-projeto-desenvolvido-por)
+* [4. Instruções para rodar o projeto](#4-instruções-para-rodar-o-projeto)
+* [5. AluraGeek aqui](#5-alurageek-aqui)
+* [6. Projeto desenvolvido por](#6-projeto-desenvolvido-por)
 
 
 
@@ -47,7 +48,26 @@ Embora o projeto tenha um modelo de design inicial fornecido, os participantes t
 
 — Git
 
-# 4. AluraGeek aqui:
+# 4. Instruções para rodar o projeto
+
+Nosso projeto tinha como desafio implementar um CRUD, para o qual criamos um arquivo db.json para simular uma API. Para executar o projeto localmente, você precisará utilizar o JSON Server como servidor. Abaixo, segue o passo a passo detalhado para você rodar o projeto e testar todas as funcionalidades do CRUD.
+
+#### Passo a Passo para Clonar e Rodar o Projeto com JSON Server
+  1. Abra o terminal.
+
+  2. Execute o comando: ```git clone https://github.com/CatarinaEudoxia/aluraGeek.git```
+
+  3. Navegue até o diretório do projeto ```clonado: cd aluraGeek```
+
+  4. Instale as dependências do projeto (Tenha o Node.js instalado no seu sistema.): ```npm install``` 
+
+  5. Inicie o JSON Server com o arquivo "db.json": ```json-server --watch db.json```
+
+Com o JSON Server rodando, você pode agora testar as funcionalidades do projeto que dependem da API simulada.
+
+#### Certifique-se de ter a extensão Live Server instalada no Visual Studio Code e de iniciá-la para visualizar o projeto localmente.
+
+# 5. AluraGeek aqui:
 
 ### Aproveite e de uma olhadinha no projeto [AluraGeek!](https://alura-geek-ochre-ten.vercel.app/)
 
@@ -57,7 +77,7 @@ Embora o projeto tenha um modelo de design inicial fornecido, os participantes t
 
 <br>
 
-# 5. Projeto desenvolvido por:
+# 6. Projeto desenvolvido por:
 
   <table>
     <tr>
