@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="src/assets/final-result.png" alt="Imagem com o logo do codeMystic" width="500">
+  <img src="src/assets/final-result.png" alt="Imagem com o resultado final do projeto" width="500">
 </p>
 
 ## Índice
@@ -18,7 +18,7 @@
 
 ## 1. Introdução
 
-Este projeto foi desenvolvido como parte do curso da Alura, como o segundo desafio da formação Front-end. O objetivo do AluraGeek é construir uma site que faça requisições a uma API e implemente um sistema CRUD focado principalmente nas operações de criação, leitura e exclusão para gerenciar o catálogo de produtos de um e-commerce fictício.
+Este projeto foi desenvolvido como parte do curso da Alura, sendo o segundo desafio da formação Front-end. O objetivo do AluraGeek é construir uma site que faça requisições a uma API e implemente um sistema CRUD focado principalmente nas operações de criação, leitura e exclusão para gerenciar o catálogo de produtos de um e-commerce fictício.
 
 Embora o projeto tenha um modelo de design inicial fornecido, os participantes têm liberdade para realizar alterações, visando aprimorar suas habilidades e aplicar os conhecimentos adquiridos durante o curso.
 
