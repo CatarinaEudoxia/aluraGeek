@@ -71,6 +71,8 @@ Com o JSON Server rodando, você pode agora testar as funcionalidades do projeto
 
 ### Aproveite e de uma olhadinha no projeto [AluraGeek!](https://alura-geek-ochre-ten.vercel.app/)
 
+<br>
+
 <p align="center">
   <img src="./src/assets/aluraGeek-logo.png" alt="Imagem com o logo do AluraGeek">
 </p>
